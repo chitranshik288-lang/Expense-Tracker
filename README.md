@@ -21,9 +21,13 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 - JavaScript
 - Local Storage API
 
-## 📷 Screenshot
+## 📷 Preview
 
 ![alt text](image.png)
+
+## Live Demo
+
+https://tumhari-website-link.com
 
 ## 📌 Future Improvements
 
