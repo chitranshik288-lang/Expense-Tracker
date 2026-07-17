@@ -1,0 +1,242 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+
+    background:linear-gradient(135deg,#4facfe,#00f2fe);
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    padding:30px;
+
+}
+
+.container{
+
+    width:520px;
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    box-shadow:0 20px 40px rgba(0,0,0,.2);
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+    color:#333;
+
+}
+
+.input-section{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+}
+
+input,
+select,
+button{
+
+    padding:12px;
+
+    border-radius:10px;
+
+    border:1px solid #ddd;
+
+    font-size:16px;
+
+}
+
+input:focus,
+select:focus{
+
+    outline:none;
+
+    border-color:#4facfe;
+
+}
+
+button{
+
+    cursor:pointer;
+
+    border:none;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+#addBtn{
+
+    background:#4facfe;
+
+    color:white;
+
+}
+
+#addBtn:hover{
+
+    background:#2196f3;
+
+}
+
+h2{
+
+    margin:25px 0 15px;
+
+    text-align:center;
+
+    color:#444;
+
+    font-size:28px;
+
+}
+
+#search,
+#filterCategory{
+
+    margin-bottom:15px;
+
+}
+
+#clearAllBtn{
+
+    background:#ff5252;
+
+    color:white;
+
+    margin-bottom:15px;
+
+}
+
+#clearAllBtn:hover{
+
+    background:#e53935;
+
+}
+
+ul{
+
+    list-style:none;
+
+}
+
+li{
+
+    background:#f8f9fa;
+
+    border-radius:15px;
+
+    padding:15px;
+
+    margin-bottom:15px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    transition:.3s;
+
+}
+
+li:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+}
+
+li strong{
+
+    font-size:18px;
+
+    color:#333;
+
+}
+
+.edit-btn{
+
+    background:#ffc107;
+
+    color:black;
+
+    margin-right:8px;
+
+    padding:8px 12px;
+
+    border-radius:8px;
+
+}
+
+.edit-btn:hover{
+
+    background:#ffb300;
+
+}
+
+.delete-btn{
+
+    background:#f44336;
+
+    color:white;
+
+    padding:8px 12px;
+
+    border-radius:8px;
+
+}
+
+.delete-btn:hover{
+
+    background:#d32f2f;
+
+}
+
+@media(max-width:600px){
+
+.container{
+
+width:100%;
+
+padding:20px;
+
+}
+
+li{
+
+flex-direction:column;
+
+align-items:flex-start;
+
+gap:10px;
+
+}
+
+}
