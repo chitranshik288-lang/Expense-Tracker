@@ -27,7 +27,7 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[https://tumhari-website-link.com](https://chitranshik288-lang.github.io/Expense-Tracker/)
+[Expense Tracker Website](https://chitranshik288-lang.github.io/Expense-Tracker/)
 
 ## 📌 Future Improvements
 
