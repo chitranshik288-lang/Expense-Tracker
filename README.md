@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
+A simple and responsive **Expense Tracker Web Application** built using HTML, CSS, and JavaScript that helps users manage their income and expenses efficiently.
 
 ## 🚀 Features
 
@@ -23,11 +23,11 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 
 ## 📷 Preview
 
-![alt text](image.png)
+![Expense Tracker Screenshot](image.png)
 
-## Live Demo
+## 🌐 Live Demo
 
-[Expense Tracker Website](https://chitranshik288-lang.github.io/Expense-Tracker/)
+[Expense Tracker Website]((https://chitranshik288-lang.github.io/Expense-Tracker/)
 
 ## 📌 Future Improvements
 
@@ -39,4 +39,4 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 
 ## 👩‍💻 Author
 
-Chitranshi Khare
+**Chitranshi Khare**
